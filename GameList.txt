@@ -1,1 +1,2 @@
 osu!.exe
+bf6.exe
